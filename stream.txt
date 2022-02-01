@@ -1,0 +1,4 @@
+list.stream().filter()
+with objects
+
+rest api validations
